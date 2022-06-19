@@ -1,2 +1,0 @@
-# Clicked
-Application app
